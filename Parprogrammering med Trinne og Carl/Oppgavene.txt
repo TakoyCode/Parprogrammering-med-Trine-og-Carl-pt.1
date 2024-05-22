@@ -1,0 +1,32 @@
+﻿
+Model yourself
+    I denne oppgaven skal du prøve å programmere deg selv 🤓 
+    Du har noen gitte egenskaper og ting du liker å gjøre.
+    Lag et hovedprogram der hver av deltakerene har sin klasse som kan printe ut en introduksjonstekst,
+    og også utføre hver sine hobbyer.
+    Utskrift i konsollen kan feks se sånn her ut: 
+
+    Hei, jeg heter Bjarne! Jeg er 40 år gammel og jeg har svart hår
+    Se på meg, nå løper jeg i åkeren.
+    Nå sitter jeg og gamer litt farmingsimulator!
+
+    Hei, jeg heter Kurt! Jeg er 55 år gammel og jeg har brunt hår
+    Nå er jeg ute på fisketur.
+    Se, jeg kan også klatre høyt i klatreparken!
+
+Virtual Pet
+    Lag en konsoll-applikasjon hvor man kan generere opp flere forskjellige virtuelle kjæledyr.
+        Bruk constructor i klassen, og man skal ikke ha lov til å endre data som navn, age eller noen andre egenskaper utenfra klassen. Lag funksjonalitet som gjør at man kan gi dyret mat, kose med dyret eller sjekke om dyret må på do
+        Her er et eksempel på hvordan det kan se ut:
+
+    Hvilket dyr vil du ta vare på? 
+        Pikachu
+    1. Gi Pikachu mat
+    2. Kos med Pikachu
+    3. Sjekk om Pikachu må på do
+        2
+    Pikachu smiler!
+        1. Gi Pikachu mat
+    2. Kos med Pikachu
+    3. Sjekk om Pikachu må på do
+    1. Pikachu er mett og fornøyd 
